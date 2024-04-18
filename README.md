@@ -16,7 +16,7 @@ This project provides an implementation of the MuseGAN model in Python using the
 
 2. **Prepare Data**
 
-Prepare your musical sequence data in MIDI format. You can use any dataset or create your own. Ensure your data is organized according to the expected structure.
+Prepare your musical sequence data in MIDI format. You can use any dataset or create your own. Ensure your data is organized according to the expected structure. The LPD-cleansed dataset was taken from this website: [link](https://hermandong.com/lakh-pianoroll-dataset/dataset)
 
 3. **Train the Model**
 
